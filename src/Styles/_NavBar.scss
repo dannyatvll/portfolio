@@ -1,0 +1,10 @@
+.NavBarPadre{
+    display: flex;
+    background-color: black;
+    color: white;
+    .Secciones{
+        display: flex;
+        align-items: flex-start;
+        padding: 1rem;    
+    }
+}
