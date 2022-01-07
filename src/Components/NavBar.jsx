@@ -3,11 +3,12 @@ import React from 'react'
 
 const NavBar = () => {
     return(
-        <div>
+        <div className="navBarPadre">
           <Link to="/aboutme">About Me</Link>
+          <Link to="/porfolio">Proyectos</Link>
+          <Link to="/curriculum">Curriculum</Link>
         </div>
     )
-
 }
 
 export default NavBar

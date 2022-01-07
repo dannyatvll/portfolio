@@ -1,9 +1,9 @@
-import "./Styles/App.scss";
+import "./styles/App.scss";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import AboutMe from "./Pages/AboutMe.jsx"
-import LandingPage from "./Pages/LandingPage.jsx";
+import AboutMe from "./pages/AboutMe.jsx"
+import LandingPage from "./pages/LandingPage.jsx";
 
 function App() {
   return (

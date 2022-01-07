@@ -1,0 +1,20 @@
+.footerPadre{
+    background-color: black;
+    color: white;
+    width:100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    font-size: 1.5rem;
+.contact{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    a{
+        padding: 0.3rem;
+        color: white;
+        text-decoration: none;
+    }
+}
+}
